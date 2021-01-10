@@ -75,7 +75,7 @@ public class UI extends Application {
     public void start(Stage primaryStage) {
         setup();
 
-        primaryStage.setTitle("The Scheduler");
+        primaryStage.setTitle("DB Manager");
 
         Group todoGroup = new Group();
         Group menuGroup = new Group();
